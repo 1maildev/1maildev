@@ -1,0 +1,16 @@
+name: "Feature idea"
+description: "Something that would make 1mail.dev more useful."
+labels: ["enhancement"]
+body:
+  - type: textarea
+    id: problem
+    attributes:
+      label: "The problem"
+      description: "What are you trying to do that 1mail.dev doesn't let you do today?"
+    validations:
+      required: true
+  - type: textarea
+    id: idea
+    attributes:
+      label: "The idea"
+      description: "What you'd want instead, in a sentence or two."

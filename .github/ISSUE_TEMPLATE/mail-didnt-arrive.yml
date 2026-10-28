@@ -1,0 +1,40 @@
+name: "Mail didn't arrive"
+description: "You sent mail to a 1mail.dev address and it never showed up."
+labels: ["mail-delivery"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Everything you write here is public — do not paste message content,
+        verification codes, or anything sensitive. Every inbox at 1mail.dev is
+        public by design.
+  - type: input
+    id: address
+    attributes:
+      label: "Recipient address"
+      description: "The full @1mail.dev address you sent to."
+      placeholder: "test-runner-42@1mail.dev"
+    validations:
+      required: true
+  - type: input
+    id: sender-domain
+    attributes:
+      label: "Sending domain"
+      description: "The domain the mail was sent from (the part after @)."
+      placeholder: "example.com"
+    validations:
+      required: true
+  - type: input
+    id: when-utc
+    attributes:
+      label: "Approximate time (UTC)"
+      description: "Roughly when you sent it, in UTC."
+      placeholder: "2026-10-28 14:35"
+    validations:
+      required: true
+  - type: textarea
+    id: detail
+    attributes:
+      label: "Anything else"
+      description: "Bounce message? Attachment involved? Anything unusual — without secrets."
+      placeholder: "Got a 550 bounce after about 5 minutes."

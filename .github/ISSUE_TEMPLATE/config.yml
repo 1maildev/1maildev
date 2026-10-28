@@ -1,0 +1,14 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Questions and help
+    url: https://github.com/1maildev/1mail/discussions
+    about: Ask in Discussions — usually faster than an issue.
+  - name: Email feedback
+    url: mailto:feedback@1mail.dev
+    about: Write to feedback@1mail.dev if you'd rather not post publicly.
+  - name: X
+    url: https://x.com/1maildev
+    about: Find us at @1maildev.
+  - name: Abuse and takedowns
+    url: mailto:abuse@1mail.dev
+    about: Report abuse or request a takedown — never a public issue.
