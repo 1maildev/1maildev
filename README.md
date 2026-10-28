@@ -19,7 +19,7 @@ private); there is nothing to build in this repo.
   bugs, mail that didn't arrive, feature ideas
 - [Discussions](https://github.com/1maildev/1maildev/discussions) — questions
   and help
-- [feedback@1mail.dev](mailto:feedback@1mail.dev) — email works too
+- [contact@1mail.dev](mailto:contact@1mail.dev) — email works too
 - [@1maildev](https://x.com/1maildev) on X
 - Abuse and takedown requests go to
   [abuse@1mail.dev](mailto:abuse@1mail.dev) — never a public issue
