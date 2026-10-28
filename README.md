@@ -15,9 +15,9 @@ private); there is nothing to build in this repo.
 
 ## Where to post
 
-- [File an issue](https://github.com/1maildev/1mail/issues/new/choose) —
+- [File an issue](https://github.com/1maildev/1maildev/issues/new/choose) —
   bugs, mail that didn't arrive, feature ideas
-- [Discussions](https://github.com/1maildev/1mail/discussions) — questions
+- [Discussions](https://github.com/1maildev/1maildev/discussions) — questions
   and help
 - [feedback@1mail.dev](mailto:feedback@1mail.dev) — email works too
 - [@1maildev](https://x.com/1maildev) on X

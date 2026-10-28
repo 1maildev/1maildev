@@ -1,7 +1,7 @@
 blank_issues_enabled: false
 contact_links:
   - name: Questions and help
-    url: https://github.com/1maildev/1mail/discussions
+    url: https://github.com/1maildev/1maildev/discussions
     about: Ask in Discussions — usually faster than an issue.
   - name: Email feedback
     url: mailto:feedback@1mail.dev
